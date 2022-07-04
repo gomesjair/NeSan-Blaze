@@ -63,7 +63,7 @@ html {
 /*..home...inicio..*/
 .home {
     display: flex;
-    background: url(./Blaze-removebg-preview.png) no-repeat right;
+    background: url(./Blaze.png) no-repeat right;
     background-color: black;
     height: 100vh;
     color: #fff;
